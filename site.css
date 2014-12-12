@@ -3,14 +3,22 @@
     text-align:center;
     padding:5px;
 }
+#headline {
+    color:white;
+}
+#subhead {
+    color:#FFCC99;
+}
 #nav {
     line-height:30px;
     background-color:black;
-    color:white;
     height:300px;
     width:100px;
     float:left;
     padding:5px; 
+}
+#navlink {
+    color:white;
 }
 #section {
     width:350px;
@@ -23,10 +31,4 @@
     clear:both;
     text-align:center;
     padding:5px; 
-}
-#headline {
-    color:white;
-}
-#subhead {
-    color:#FFCC99;
 }
