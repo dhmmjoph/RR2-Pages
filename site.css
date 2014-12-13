@@ -11,9 +11,10 @@
 }
 #nav {
     line-height:30px;
-    background-color:white;
+    background-color:#444444;
     height:auto;
-    width:15%;
+    width:7%;
+    max-width:100px;
     float:left;
     padding:5px; 
 }
