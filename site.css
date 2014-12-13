@@ -11,7 +11,7 @@
 }
 #nav {
     line-height:30px;
-    background-color:#444444;
+    background-color:black;
     height:auto;
     width:7%;
     max-width:100px;
@@ -32,7 +32,7 @@
     padding:10px; 
 }
 #footer {
-    background-color:black;
+    background-color:#660000;
     color:white;
     clear:both;
     text-align:center;
