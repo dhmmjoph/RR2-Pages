@@ -18,7 +18,8 @@
     padding:5px; 
 }
 #navlink {
-    color:white;
+    color:#000000;
+    text-decoration:none;
 }
 #section {
     width:350px;
