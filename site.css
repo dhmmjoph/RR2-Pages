@@ -11,15 +11,16 @@
 }
 #nav {
     line-height:30px;
-    background-color:black;
+    background-color:white;
     height:300px;
     width:100px;
     float:left;
     padding:5px; 
 }
 #navlink a{
-    color:#FFFFFF;
+    color:white;
     text-decoration:none;
+    background-color:black;
 }
 #section {
     width:350px;
