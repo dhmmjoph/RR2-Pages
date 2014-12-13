@@ -18,6 +18,9 @@
     float:left;
     padding:5px; 
 }
+#navdiv{
+    width:100%;
+}
 #navlink a{
     color:white;
     text-decoration:none;
