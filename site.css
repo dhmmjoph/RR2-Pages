@@ -27,8 +27,8 @@
 }
 #section {
     width:auto;
-    padding:10px; 
-}
+    border-radius: 10px;
+    }
 #footer {
     background-color:#660000;
     color:white;
