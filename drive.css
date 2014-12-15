@@ -12,15 +12,12 @@ img.earthfeed {
 	height:auto;
 }
 span.logbook {
-	width:30%;
+	width:39%;
 	float:right;
 }
 h2.logtitle {
 	text-align:center;
 	color:white;
-}
-#controls {
-
 }
 span.drivecontrols {
 	width:60%;
@@ -35,5 +32,10 @@ p.text {
 	color:white;
 }
 #logcontrols {
-
+	width:39%;
+	float:right;
+}
+textarea.sndmsg {
+	width:15%;
+	height:10%;
 }
