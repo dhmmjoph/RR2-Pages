@@ -1,0 +1,26 @@
+.rrfeed {
+	width:auto;
+	max-height:50%;
+	height:480px;
+}
+.earthfeed {
+	width:auto;
+	max-height:50%;
+	height:480px;
+}
+.feeds {
+	border-radius:10px;
+	background-color:#111111;
+	width:auto;
+	max-width:680px;
+	height:auto;
+	float:left;
+	padding:20px;
+}
+.controls {
+	float:left;
+}
+.drivecontrols {
+	margin-left:auto;
+	margin-right:auto;
+}
