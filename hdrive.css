@@ -60,4 +60,38 @@
 .logs {
 	color:white;
 	border:5px solid #444444;
+}	
+.dpad {
+	margin: auto;
+	width: 180px;
+	border-radius: 10px;
+	font-size: 0; /* Used to fix space between arrows */
+}
+.arrow {
+	display: inline-block;
+	width: 50px; height: 50px;
+	background-size: contain;
+	margin: 5px;
+}
+
+#up {
+	background-image: url(img/arrow.png);
+	margin: 5px 65px;
+	transform: rotate(90deg);
+}
+#left {
+	background-image: url(img/arrow.png);
+	/* transform: rotate(120deg); */
+}
+#stop {
+	background-image: url(img/middle.png);
+}
+#right {
+	background-image: url(img/arrow.png);
+	transform: rotate(180deg);
+}
+#down {
+	margin: 5px 65px;
+	background-image: url(img/arrow.png);
+	transform: rotate(-90deg);
 }
