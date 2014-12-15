@@ -22,8 +22,17 @@ h2.logtitle {
 #controls {
 
 }
-#drivecontrols {
-
+span.drivecontrols {
+	width:60%;
+	float:left;
+}
+table.arrows {
+	margin-left:auto;
+	margin-right:auto;
+}
+p.text {
+	text-align:center;
+	color:white;
 }
 #logcontrols {
 
