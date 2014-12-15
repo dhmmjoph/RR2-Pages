@@ -2,7 +2,7 @@
 	<head>
 		<link rel="stylesheet" type="text/css" href="drive.css">
 		<link rel="icon" type="image/png" href="RCX.png" />
-		<title>Drive Our Rover</title>
+		<title>Red Rover - Control Page</title>
 	</head>
 	<body bgcolor="black">
 		<div class="feeds">
@@ -37,27 +37,15 @@
 				</table>
 				<p class="text">Forward/Backward Time:</p>
 				<div align="center">
-					<select name="fbtime">
-						<option value="1">1 sec</option>
-						<option value="2">2 secs</option>
-						<option value="3">3 secs</option>
-					</select>
+					<input type="range" min="1" max="3" value="2" id="fbtime">
 				</div>
 				<p class="text">Left/Right Time:</p>
 				<div align="center">
-					<select name="lrtime">
-						<option value="1">1 sec</option>
-						<option value="2">2 secs</option>
-						<option value="3">3 secs</option>
-					</select>
+					<input type="range" min="1" max="3" value="2" id="lrtime">
 				</div>
 				<p class="text">Motor Power:</p>
 				<div align="center">
-					<select name="power">
-						<option value="3">3x (fast)</option>
-						<option value="2">2x (medium)</option>
-						<option value="1">1x (slow)</option>
-					</select>
+					<input type="range" min="1" max="3" value="2" id="pwr">
 				</div>
 			</span>
 			<span class="logcontrols">
