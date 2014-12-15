@@ -18,13 +18,13 @@
 	padding:20px;
 }
 .border {
-	width:20px;
+	width:5%;
 	height:100%;
 	float:left;
 }
 .right {
 	float:right;
-	width:48%;
+	width:45%;
 }
 .logbook {
 	background-color:#111111;
