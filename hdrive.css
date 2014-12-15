@@ -17,22 +17,30 @@
 	float:left;
 	padding:20px;
 }
-.border {
+.vline {
 	width:5%;
 	height:100%;
 	float:left;
+}
+.hline {
+	height:5%;
+	width:auto;
 }
 .right {
 	float:right;
 	width:45%;
 }
-.logbook {
+.float {
 	background-color:#111111;
 	border-radius:10px;
 	padding:5px 20px 20px;
 	height:auto;
 	width:100%;
 	float:right;
+}
+.slider {
+	width:50%;
+	height:auto;
 }
 .text {
 	color:white;
@@ -48,4 +56,8 @@
 .drivecontrols {
 	margin-left:auto;
 	margin-right:auto;
+}
+.logs {
+	color:white;
+	border:5px solid #444444;
 }
