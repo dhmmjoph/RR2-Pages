@@ -1,12 +1,12 @@
 .rrfeed {
-	width:auto;
-	max-height:480px;
-	height:50%;
+	width:45%;
+	max-width:640px;
+	height:auto;
 }
 .earthfeed {
-	width:auto;
-	max-height:480px;
-	height:50%;
+	width:45%;
+	max-width:640px;
+	height:auto;
 }
 .feeds {
 	border-radius:10px;
@@ -14,11 +14,34 @@
 	width:auto;
 	max-width:680px;
 	height:auto;
-	float:left;
+	/*float:left;*/
 	padding:20px;
 }
-.controls {
+.border {
+	width:20px;
+	height:100%;
 	float:left;
+}
+.right {
+	float:left;
+}
+.logbook {
+	background-color:#111111;
+	border-radius:10px;
+	padding:20px;
+	height:50%;
+	width:auto;
+}
+.text {
+	color:white;
+}
+.head {
+	color:white;
+}
+.controls {
+	height:50%;
+	width:auto;
+	margin:auto;
 }
 .drivecontrols {
 	margin-left:auto;
