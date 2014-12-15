@@ -14,7 +14,7 @@
 	width:auto;
 	max-width:680px;
 	height:auto;
-	/*float:left;*/
+	float:left;
 	padding:20px;
 }
 .border {
@@ -22,15 +22,13 @@
 	height:100%;
 	float:left;
 }
-.right {
-	float:left;
-}
 .logbook {
 	background-color:#111111;
 	border-radius:10px;
 	padding:20px;
-	height:50%;
+	height:auto;
 	width:auto;
+	float:right;
 }
 .text {
 	color:white;
